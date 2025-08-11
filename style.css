@@ -1,0 +1,7 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+/* Simple transition for smoother UI updates */
+.weather-card, .search-container {
+    transition: all 0.3s ease-in-out;
+}
